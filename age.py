@@ -1,4 +1,4 @@
-driving = input('請穩你有沒有開過車?')
+driving = input('請問你有沒有開過車?')
 if driving != '有' or driving != '沒有':
     print('只能輸入 有/沒有')
     raise SystemExit
